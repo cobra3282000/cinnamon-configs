@@ -1,1 +1,1 @@
-dconf load /org/cinnamon/ < /root/cinnamon.dconf
+dconf load /org/cinnamon/ < ~/cinnamon.dconf
