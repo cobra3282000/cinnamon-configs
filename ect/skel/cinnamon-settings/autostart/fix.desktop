@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=background fix
+StartupWMClass=fix
+Comment=All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.
+GenericName=Internet Messenger
+Exec=/usr/bin/dd.sh
+Icon=
+Type=Application
+Categories=Network;InstantMessaging;
+Path=/usr/bin
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[en_US]=Discord
+Comment[en_US]=All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.
+X-GNOME-Autostart-Delay=3
