@@ -22,7 +22,7 @@ window-effect-speed=1
 quit-time-delay=60
 
 [desktop/background]
-picture-uri='file:///home/darren/backgrounds/neb-6.jpg'
+picture-uri='file:///backgrounds/neb-6.jpg'
 
 [desktop/background/slideshow]
 delay=15
